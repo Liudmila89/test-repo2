@@ -2,3 +2,4 @@ Test case 1
 Test case tittle:some tittle
 Steps to reproduce 1,2,3,4
 Test case2
+Info about test2
